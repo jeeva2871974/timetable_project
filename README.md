@@ -1,3 +1,5 @@
+<img width="1920" height="6190" alt="timetable" src="https://github.com/user-attachments/assets/96b3e6ab-fcb3-4c7c-b901-214d16aa4ce2" />
+<img width="1920" height="6190" alt="timetable" src="https://github.com/user-attachments/assets/ee3c6918-b4db-4300-af66-ad233c9381d2" />
 # School Timetable Management System
 
 A full-stack web application designed to create, manage, and view school schedules effortlessly. Built with a **Django** backend, a **React** frontend, and styled with clean, responsive **CSS**.
